@@ -1,0 +1,1 @@
+ /Users/vyankovs/Work/CV/image_generator/.dart_tool/flutter_build/566f156031f724cb02ed57f5d5ee8341/native_assets.yaml: 
